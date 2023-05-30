@@ -55,6 +55,29 @@
     - Mangelnde Kompetenz
     - "Keine Zeit"
     - Personal nicht ausreichend entsprechend geschult oder nicht vorhanden
+  - Unter welchen Umständen kann man von einem "erfolgreichen" Projekt sprechen?
+    - Wenn das Projektziel im gegebenen Zeitrahmen mit dem gesetzten Budget in den geforderten Qualität erreicht wurde 
+
+## Anforderungen
+- Was ist eine Anforderung?
+  - Merkmal/Eigenschaft/Attribut des gefordertem Endproduktes inklusive der geforderten Qualität *zb Benutzerfreundlichkeit*
+  - Anforderungen müssen systematisch erhoben und im Rahmen einer Anforderungsanalyse immer wieder durchleuchtet werden
+    - Hier Fallen viele Dokumente an , Diagramme/Visualisierungen/Normen/Gesetztestexte
+    - Kategorisierung von Anforderungen
+    - Analyse -> Oft OOA(Objektorientierte Analyse) -> Noch mehr Dokumente *Use Case-Diagramme, Klassendiagramme, ...*
+    - Mit IT mitteln das beschreiebn und definieren was der Kunde/Auftragssteller sich vorgestellt hat Theoretisch umgesetzt ist 
+    - Verfeinerung der Anforderungen
+
+  - Typen von Anforderungen:
+    - kritische 
+      - Hoch Relevante Anforderungen damit die Software funktioniert
+    - nicht-kritische
+      - Das System würde auch ohne diese funktionieren
+    - funktionale
+    - nicht-funktionale
+      -  Qualitative Anforderungen: Performance, Sicherheit, Usability, UX......
+
+
 ### IHK fragen dazu
   - Was sind die Wichtigsten Unterscheidungsmerkmale für Projekte? 
     - Reichweite
@@ -86,3 +109,21 @@
       - Eine mehr abstrakte Ebene der Definierung von Werkzeugen
       - Grobe Konzepte, Vorgehensweisen
       - SCRUM, Wasserfallmodell, Algorithmik
+    - *Beispiel:*
+      - Instrument: Zeitplannung
+      - Passendes Werkzeug: Gantt-Diagramm
+  - Was sind die Ziele der Projektplannung? 
+    - Schaffung eines Handlungsrahmens
+    - Schaffung eines Grundgerüsts für den Einsatz und die verteilung der Ressourcen
+    - Führungsinstrument -> "Ordung" schaffen
+    - Zeitaufwand bestimmen
+    - Verhandlungsbasis schaffen (durch Zeitplanung)
+
+## Einführung in die Projektplannung 
+![](pics/projektplannung.png)
+
+- Die Ebenen der Projektplannung: 
+  - Planungstiefe
+    - Wie sehr gehe ich in der momentanen Planungsphase ins Detail? 
+  - Planungshorizont
+    - Wie groß sind die Plannungsabschnitte, welche betrachtet werden bzw. wie weit blicke ich it der aktuellen Planung in die Zukunft
