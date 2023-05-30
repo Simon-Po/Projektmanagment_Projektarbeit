@@ -55,6 +55,34 @@
     - Mangelnde Kompetenz
     - "Keine Zeit"
     - Personal nicht ausreichend entsprechend geschult oder nicht vorhanden
+### IHK fragen dazu
   - Was sind die Wichtigsten Unterscheidungsmerkmale für Projekte? 
     - Reichweite
-    - 
+    - Grad der Einmaligkeit
+      - Pionierprojekte *Bitcoin, Facebook, etc...*
+      - Potentialprojekte
+    - Branche
+  - Was sind die wichtigsten Aufgaben des Projektmanagments?
+    - Controling(-> Überwachung und Steuerung von Ressourcen)
+    - Planung
+    - Qualitätssicherung(-> Überwachung und Steuerung der Unsetzung aller geforderten Anforderungen in der geforderten Qualität) *Dokumentation, Testen im Fall von Anwendungs-Entwicklern* 
+    - Führen *Rollenverteilung, Hierarchie, Verantwortung* und Delegieren *verteilen von aufgaben*
+    - Motivation
+  - Unterscheiden sie interne und externe Projekte im Projektmanagment
+    - Extern:
+      - Projektidee und Projektziel sind extern Analysiert *kommen von außen*
+    - Intern: 
+      - Projektideen und Projektziel kommen aus der Organistation/vom Entwickler selbst
+  - Unterscheiden sie Projektmanagment und Projektarbeit!
+    - Projektarbeit: 
+      - Umfasst alle konkreten Arbeiten und Arbeitsschritte im Rahmen der Projektrealisierung
+    - Das Projketmanagment schafft den rahmen für die Projektarbeit um Systematisch und kontrolliert zu funktionieren
+  - Unterscheiden sie Werkzeuge und Instrumente im Rahmen des Projektmanagments
+    - Beispiel Instrument: Zeitplanung, Anforderungsanalyse Werkzeug: Netzplantechnik, Projektstrukturplan
+    - Werkzeuge:
+      - Mehr definierte wenig abstrakte Werzeuge
+      - IdE, Visualisierung
+    - Instrumente:
+      - Eine mehr abstrakte Ebene der Definierung von Werkzeugen
+      - Grobe Konzepte, Vorgehensweisen
+      - SCRUM, Wasserfallmodell, Algorithmik
